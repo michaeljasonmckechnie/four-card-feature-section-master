@@ -12,7 +12,9 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 375px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
 }
 
 main {
